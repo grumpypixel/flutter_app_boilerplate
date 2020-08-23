@@ -1,0 +1,25 @@
+{
+    "en": {
+        "color_blue": "Blue",
+        "color_green": "Green",
+        "color_pink": "Pink",
+        "color_red": "Red",
+        "color_yellow": "Yellow",
+        "lang_english": "English",
+        "lang_german": "Deutsch",
+        "lang_system": "As on device",
+        "snack_button_pressed": "Button pushed",
+        "text_click_counter": "You have pushed the button this many times",
+        "text_dark_mode": "Dark mode",
+        "text_dummy_setting": "Dummy setting",
+        "text_language": "Language",
+        "text_super_dark": "Super dark mode",
+        "text_system_language": "System language",
+        "text_system_theme": "System theme",
+        "text_theme_color": "Theme color",
+        "title_main": "Flutter App Boilerplate",
+        "title_settings": "Settings",
+        "title_themes": "Themes",
+        "tooltip_increment_counter": "Increment counter"
+    }
+}
